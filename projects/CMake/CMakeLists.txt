@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.2 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.13)
 
-project(rxcpp VERSION 2.2.4 LANGUAGES C CXX)
+project(rxcpp VERSION 4.1.1 LANGUAGES C CXX)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
